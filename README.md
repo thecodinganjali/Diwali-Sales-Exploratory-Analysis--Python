@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis- Python
+# Diwali Sales Exploratory Analysis💥
 
 ## Introduction
 

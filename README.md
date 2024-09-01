@@ -1,4 +1,4 @@
-# Diwali Sales Exploratory Analysis💥
+# Diwali Sales Exploratory Data Analysis💥
 
 ## Introduction
 
